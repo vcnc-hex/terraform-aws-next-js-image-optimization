@@ -1,6 +1,6 @@
 {
   "name": "@dealmore/tf-next-image-optimization",
-  "version": "10.2.3",
+  "version": "11.0.1",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "aws-sdk": "*",
-    "next": "10.2.3",
+    "next": "11.0.1",
     "node-fetch": "2.6.1"
   },
   "devDependencies": {
